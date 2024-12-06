@@ -1,1 +1,1 @@
-Changes mades tp check for Pollscm build.
+Changes mades to check for Pollscm build.
